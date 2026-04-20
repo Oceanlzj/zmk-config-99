@@ -1,0 +1,6 @@
+if SHIELD_OCEAN99
+
+config ZMK_KEYBOARD_NAME
+    default "ocean99"
+
+endif # SHIELD_OCEAN99
